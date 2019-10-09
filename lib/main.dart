@@ -22,42 +22,42 @@ class XylophoneApp extends StatelessWidget {
                 color: Colors.orange,
                 onPressed: () {
                   final player = AudioCache();
-                  player.play('note1.wav');
+                  player.play('note2.wav');
                 },
               ),
               FlatButton(
                 color: Colors.yellow,
                 onPressed: () {
                   final player = AudioCache();
-                  player.play('note1.wav');
+                  player.play('note3.wav');
                 },
               ),
               FlatButton(
                 color: Colors.green,
                 onPressed: () {
                   final player = AudioCache();
-                  player.play('note1.wav');
+                  player.play('note4.wav');
                 },
               ),
               FlatButton(
                 color: Colors.blue,
                 onPressed: () {
                   final player = AudioCache();
-                  player.play('note1.wav');
+                  player.play('note5.wav');
                 },
               ),
               FlatButton(
                 color: Colors.indigo,
                 onPressed: () {
                   final player = AudioCache();
-                  player.play('note1.wav');
+                  player.play('note6.wav');
                 },
               ),
               FlatButton(
                 color: Colors.purple,
                 onPressed: () {
                   final player = AudioCache();
-                  player.play('note1.wav');
+                  player.play('note7.wav');
                 },
               ),
             ],
